@@ -1,0 +1,7 @@
+The image used to download the url given by the image server
+
+Usage:(Before make,you should change the url and the outfilename in file of main.cpp)
+cd build
+rm -rf *
+cmake ..
+make

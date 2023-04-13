@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/putUrlPic.dir/main.cpp.o  -o putUrlPic -lcurl 

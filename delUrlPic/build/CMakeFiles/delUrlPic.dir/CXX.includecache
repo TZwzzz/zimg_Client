@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wilson/delUrlPic/main.cpp
+curl/curl.h
+-
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+stdio.h
+-
+string.h
+-
+

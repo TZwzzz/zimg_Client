@@ -1,0 +1,3 @@
+/home/wilson/getUrlPic/build/CMakeFiles/rebuild_cache.dir
+/home/wilson/getUrlPic/build/CMakeFiles/getUrlPic.dir
+/home/wilson/getUrlPic/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Upload Result</title>
+</head>
+<body>
+<h1>MD5: b4e614e32fad6d53b6a25a44cc230ec7</h1>
+Image upload successfully! You can get this image via this address:<br/><br/>
+<a href="/b4e614e32fad6d53b6a25a44cc230ec7">http://yourhostname:4869/b4e614e32fad6d53b6a25a44cc230ec7</a>?w=width&h=height&g=isgray&x=position_x&y=position_y&r=rotate&q=quality&f=format
+</body>
+</html>

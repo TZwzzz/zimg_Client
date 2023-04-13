@@ -1,0 +1,3 @@
+/home/wilson/delUrlPic/build/CMakeFiles/rebuild_cache.dir
+/home/wilson/delUrlPic/build/CMakeFiles/delUrlPic.dir
+/home/wilson/delUrlPic/build/CMakeFiles/edit_cache.dir
